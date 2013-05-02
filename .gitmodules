@@ -1,0 +1,3 @@
+[submodule "unicodeshlex"]
+	path = unicodeshlex
+	url = git://github.com/nickpack/FU-cStringIO.git
