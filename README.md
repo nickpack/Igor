@@ -39,3 +39,6 @@ Lint and test your code using pylint, pyflakes etc.
 ## Licence
 Copyright (c) 2013 Nick Pack
 Licensed under the MIT license.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nickpack/Igor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
